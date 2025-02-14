@@ -1,0 +1,19 @@
+﻿﻿# Carpeta de configuraci�n de Visual Studio
+.vs/
+
+# Archivos de compilaci�n y temporales de .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.json
+*.pdb
+*.log
+*.ide
+*.sln.docstates
+*.nuget.cache
+*.assets.json
+
+# Configuraci�n de usuario y entornos locales
+appsettings.*.json
