@@ -37,7 +37,7 @@ Edita el archivo `appsettings.json` para definir los valores de autenticación J
 ```
 ## 🚀 Estructura
 
-![Estructura](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/img/autenticacion.png)
+![Estructura](https://usuarioperu.com/wp-content/uploads/2017/08/jwt.png)
 
 ## 🚀 Cómo probar
 
